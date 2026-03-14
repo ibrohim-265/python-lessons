@@ -36,4 +36,4 @@
 # else:
 #     print("Bunda so'z mavjud emas")
 
-print("test")
+
