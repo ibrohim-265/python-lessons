@@ -80,17 +80,18 @@
 # print(phone.values()) # dict_values(['Iphone', 'iPhone 17 Pro Max', 2025, 'Silver', 1500])
 # print(telefonlar.values()) # dict_values(['Iphone X', 'galaxy s9', 'mi 10 pro', 'nokia 3310'])
 
-telefonlar = {
-    'ali':'iphone x',
-    'vali':'galaxy s9',
-    'olim':'mi 10 pro',
-    'orif':'nokia 3310',
-    'hamida':'galaxy s9',
-    'maryam':'huawei p30',
-    'tohir':'iphone x',
-    'umar':'iphone x'    
-    }
+# telefonlar = {
+#     'ali':'iphone x',
+#     'vali':'galaxy s9',
+#     'olim':'mi 10 pro',
+#     'orif':'nokia 3310',
+#     'hamida':'galaxy s9',
+#     'maryam':'huawei p30',
+#     'tohir':'iphone x',
+#     'umar':'iphone x'    
+#     }
 
-print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
-for tel in telefonlar.values():
-    print(tel)
+# print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
+# for tel in telefonlar.values():
+#     print(tel)
+
