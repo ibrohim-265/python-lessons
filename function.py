@@ -94,10 +94,10 @@
 # kattaroq_son(7, 7)
 
 #7.
-def bolinish(son)
-    for i in range(2, 11)
-    if son % i == 0:
-        print(f"{son} {i} ga qoldiqsiz bolinadi")
+# def bolinish(son):
+#     for i in range(2, 11):
+#      if son % i == 0:
+#         print(f"{son} {i} ga qoldiqsiz bolinadi")
 
-a = int(input("Xoxlagan son kiriting: "))
-bolinish(a)        
+# a = int(input("Xoxlagan son kiriting: "))
+# bolinish(a)      
